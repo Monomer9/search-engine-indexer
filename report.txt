@@ -1,5 +1,0 @@
-
-===== INDEX STATS =====
-Documents: 46410
-Unique tokens: 6446144
-Index size (KB): 609961.103515625
